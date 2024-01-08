@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fbaner{
+    color:rgb(255, 255, 255);
+    
+}
+.container-box{
+    height: 600px;
+    width: 1320px;
+    background-image: linear-gradient(rgba(65, 58, 58, 0.075), rgba(27, 27, 23, 0.829)), url("../resources/BannerImage.png");
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.con-text{
+    text-align: center;
+    align-items: center;
+}
+.con-text p {
+    font-size: 32px;
+}
+.con-text h1{
+    font-size: 72px;
+}
+
+.ban3-container{
+    background-image: linear-gradient(to right, rgba(34, 30, 30, 0.808) , rgba(236, 236, 232, 0)),url("../resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.ban3-text{
+    padding-left: 126px;
+   
+ 
+}
+.ban3-text h1{
+    /* padding-top: 126px; */
+}
+.ban4-text-section{
+    margin-top: 120px;
+}
+.ban4-container{
+    width: 1320px;
+    height: 482px;
+    background-image:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    display: flex;
+    justify-content: center;
+    align-content: space-evenly;
+}
+
+.ban5-container{
+    display: flex;
+    width: auto;
+}
+
+
+.ban6-text-section{
+    margin-top: 120px;
+
+}
+.ban6-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.solid-box{
+    width: 1320px;
+    height: 229px;
+    background-color: red;
+}

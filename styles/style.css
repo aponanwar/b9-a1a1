@@ -77,3 +77,20 @@
     height: 229px;
     background-color: red;
 }
+
+.ban8-container-card{
+    display: flex;
+}
+
+.ban8-container-card img{
+    width: 424px;
+    height: 450px;
+    margin: 12px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    width: 1600px;
+    height: 609px;
+}

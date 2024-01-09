@@ -148,14 +148,14 @@ font-family: Inter;
 
 
 .ban4-container{
-    border:3px solid red;
+    
     display: flex;
     
 }
 
 .ban4-text{
     display:block;
-    border: 2px solid blue;
+    
     align-items: center;
 }
 
